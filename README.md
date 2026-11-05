@@ -4,49 +4,100 @@ Software engineer with 5 years of experience, including 4+ years at **Amazon** b
 
 I work across modern C++, React Native apps in TypeScript, and device–cloud integration, taking features from design through launch and on-call.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-asheesh--balotra-0A66C2?style=flat-square)](https://linkedin.com/in/asheesh-balotra)
-![CodeChef](https://img.shields.io/badge/CodeChef-4★-5B4638?style=flat-square&logo=codechef&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/asheesh-balotra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/im_ashhh/)
+[![CodeChef 4★](https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/im_ashh)
+
+**Email:** [asheesh.balotra11@gmail.com](mailto:asheesh.balotra11@gmail.com)
 
 ## Tech stack
 
-**Languages**
+### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+<p>
+  <img src="assets/cpp.svg" alt="C++" height="38">
+  <img src="assets/typescript.svg" alt="TypeScript" height="38">
+  <img src="assets/java.svg" alt="Java" height="38">
+  <img src="assets/idl.svg" alt="IDL (Interface Definition Language)" height="38">
+</p>
 
-**Apps and frontend**
+### Design and fundamentals
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<p>
+  <img src="assets/dsa.svg" alt="Data Structures and Algorithms" height="38">
+  <img src="assets/system-design.svg" alt="Distributed System Design" height="38">
+  <img src="assets/ood.svg" alt="Object-Oriented Design" height="38">
+  <img src="assets/lld.svg" alt="Low-Level Design" height="38">
+</p>
 
-**Systems and tools**
+### Apps and frontend
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Yocto](https://img.shields.io/badge/Embedded_Linux_(Yocto)-333333?style=flat-square)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-333333?style=flat-square)
-![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat-square)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+<p>
+  <img src="assets/react.svg" alt="React" height="38">
+  <img src="assets/react-native.svg" alt="React Native" height="38">
+  <img src="assets/html.svg" alt="HTML" height="38">
+  <img src="assets/css.svg" alt="CSS" height="38">
+  <img src="assets/apl.svg" alt="APL (Alexa Presentation Language)" height="38">
+</p>
 
-**Cloud and distributed systems**
+### Systems and tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+<p>
+  <img src="assets/linux.svg" alt="Linux" height="38">
+  <img src="assets/jest.svg" alt="Jest" height="38">
+  <img src="assets/cmake.svg" alt="CMake" height="38">
+  <img src="assets/googletest.svg" alt="GoogleTest" height="38">
+  <img src="assets/gdb.svg" alt="GDB" height="38">
+  <img src="assets/embedded-linux.svg" alt="Embedded Linux (Yocto)" height="38">
+</p>
 
-**AI tooling**
+### Cloud and distributed systems
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-333333?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-333333?style=flat-square)
+<p>
+  <img src="assets/aws.svg" alt="AWS" height="38">
+  <img src="assets/kafka.svg" alt="Apache Kafka" height="38">
+  <img src="assets/s3.svg" alt="Amazon S3" height="38">
+  <img src="assets/lambda.svg" alt="Lambda" height="38">
+  <img src="assets/ecs.svg" alt="Amazon ECS" height="38">
+  <img src="assets/sqs.svg" alt="Amazon SQS" height="38">
+  <img src="assets/cloudwatch.svg" alt="CloudWatch" height="38">
+</p>
+
+### Databases and caching
+
+<p>
+  <img src="assets/mysql.svg" alt="MySQL" height="38">
+  <img src="assets/redis.svg" alt="Redis" height="38">
+  <img src="assets/cassandra.svg" alt="Cassandra (NoSQL)" height="38">
+</p>
+
+### AI tooling
+
+<p>
+  <img src="assets/ai-agents.svg" alt="AI agents" height="38">
+  <img src="assets/claude-code.svg" alt="Claude Code" height="38">
+  <img src="assets/mcp.svg" alt="Model Context Protocol (MCP)" height="38">
+  <img src="assets/kiro.svg" alt="Kiro" height="38">
+</p>
 
 ## Experience
 
-- **Amazon (Alexa Devices)**, Software Development Engineer, Jul 2022 – Sep 2026
-- **LTI**, Cloud & Infrastructure Engineer, Sep 2021 – Jun 2022
+### Amazon (Alexa Devices)
+
+Software Development Engineer, Jul 2022 – Sep 2026
+
+Built customer-facing software for Amazon Alexa devices, including Echo (voice-only) and Echo Show (screen-based), used by millions of customers.
+
+- **Settings capability agent:** Built the Settings app's agent in C++ on the AVS Device SDK with IDL interfaces. Retired the legacy app (−7.1 MB flash) and root-caused 4 launch-blocking bugs across 3 teams.
+- **Bluetooth:** Owned it end to end for the next-gen Settings app, including backward-compatible PIN pairing with the middleware team. 370K+ launches, zero feature bugs.
+- **Performance & cost:** Cut flash 17% and RAM 1.5 MB (7 libraries into 1); kept OOBE CloudWatch costs ~40× lower by trimming high-cardinality metric dimensions.
+- **OOBE & Settings:** Shipped features and fixed bugs and crashes (ANR, SIGABRT, SIGSEGV) using GDB and logs.
+- **Deep links:** Enabled 5 partner apps to open Settings for a Q4 2025 launch, using a zero-overhead design instead of one adding 200 ms.
+- **Spotlight app:** Architected the notification subsystem for device events and cloud directives on the Echo Show home screen (C++, embedded Linux).
+
+### Larsen & Toubro Infotech
+
+Cloud & Infrastructure Engineer, Sep 2021 – Jun 2022
 
 ## Education and achievements
 
